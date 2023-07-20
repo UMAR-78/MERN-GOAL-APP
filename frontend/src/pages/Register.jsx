@@ -61,7 +61,7 @@ function Register() {
   if (isLoading) {
     return <Spinner />
   }
-
+  
   return (
     <>
       <section className='heading'>
